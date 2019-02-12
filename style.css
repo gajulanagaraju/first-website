@@ -1,0 +1,13 @@
+body{color:#00ff55;
+text-align: center;
+background-image:url(https://texasbob.com/stadium/simages/163.jpg);
+
+background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */}
+
+  img{
+      height:300px;
+      width:100px;
+      float:left;
+  }
